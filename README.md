@@ -1,3 +1,3 @@
 # ascii-from-image
 
-![ASCII Art](./ascii_sample.jpg)
+![ASCII Art](./demo/ascii_demo.jpg)
