@@ -26,5 +26,5 @@ def image_to_ascii(image_path):
     
     return ascii_str
 
-ascii_art = image_to_ascii(r"./path/to/image")
+ascii_art = image_to_ascii(r"./resources/display_picture.png")
 print(ascii_art)
